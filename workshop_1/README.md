@@ -14,6 +14,15 @@
 1. Виберіть **3 типи зображень** (фотографія, скріншот, графічне зображення з текстом).
 2. Зафіксуйте їхній початковий розмір, формат (JPEG, PNG тощо) та вагу файлу.
 
+![](https://github.com/CookieYup/design/blob/main/workshop_1/images/cat.jpg?raw=true)
+Рисунок 1.1 - Фото
+
+![](https://github.com/CookieYup/design/blob/main/workshop_1/images/screenshot.jpg?raw=true)
+Рисунок 1.2 - Сриншот
+
+![](https://github.com/CookieYup/design/blob/main/workshop_1/images/text.jpg?raw=true)
+Рисунок 1.3 - Тект
+
 #### 2. Стиснення без втрати якості (lossless)
 3. Завантажте кожне зображення в **Squoosh**.
 4. Використайте формати **PNG (lossless)** та **WebP (lossless)**.
