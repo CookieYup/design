@@ -30,7 +30,7 @@
    - Перевірено відповідність кольорів оригінальному логотипу.  
 
 5. **Експорт логотипу**  
-   - Готовий логотип експортовано у форматах `.svg` та `.png`.  
+    ![](https://github.com/CookieYup/design/blob/main/workshop_2/fagma%20logo.svg?raw=true).  
    - [Збережено посилання на проєкт у Figma для подальших змін. ](https://www.figma.com/design/HWc1MSCefj2niLSMixHCei/fagma-logo?node-id=0-1&p=f&t=yCAejSRAiJQubEXO-0) 
 
 ### Висновок  
