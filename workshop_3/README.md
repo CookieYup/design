@@ -25,8 +25,7 @@
 
 ---
 
-![Рисунок 3.1 — Базовий елемент дизайну у Figma](встав_сюди_посилання_на_картинку)
-
+![Рисунок 3.1 — Базовий елемент дизайну у Figma](https://github.com/CookieYup/design/blob/main/workshop_3/figma_file.jpg?raw=true)
 ---
 
 ### Висновок:
