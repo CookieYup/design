@@ -11,11 +11,11 @@
 #### Хід роботи:
 Використовучи інструмент Pen Tool, обводжу іконки у border стилі, налаштовую різну ширину обводки. Готові іконки розміщую на окремих фреймах 24*24 px.
 
-![](https://github.com/Dv4c/design/blob/main/workshop_4/icons_details.png?raw=true)
+![](https://github.com/CookieYup/design/blob/main/workshop_4/icons_figma.jpg?raw=true)
 
 Рисунок 4.1 - Вигляд створених іконок за допомогою Pen Tool
 
-![](https://github.com/Dv4c/design/blob/main/workshop_4/icons.png?raw=true)
+![](https://github.com/CookieYup/design/blob/main/workshop_4/icons.jpg?raw=true)
 
 Рисунок 4.2 - Вигляд іконок і приклад
 
