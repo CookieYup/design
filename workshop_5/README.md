@@ -13,31 +13,20 @@
 #### Хід роботи:
 
 Використовуючи геометричні фігури створюю два значка у заливковому стилі, використовуючи при цьому булеві групи додавання та віднімання (union, substract). 
+
+Вибір значків для створення:
+
+![](https://github.com/CookieYup/design/blob/main/workshop_5/material.jpg?raw=true)
+
 Створюю перший значок "Радіації":
 
-![](https://github.com/Dv4c/design/blob/main/workshop_5/1.png?raw=true)
+![](https://github.com/CookieYup/design/blob/main/workshop_5/result%201.jpg?raw=true)
 
-Рисунок 5.1 - Вибір типу групування substract для кіл
+Рисунок 5.1 - Значок радіації
 
-![](https://github.com/Dv4c/design/blob/main/workshop_5/2.png?raw=true)
 
-Рисунок 5.2 - Місяць - як результат групування кіл.
+![](https://github.com/CookieYup/design/blob/main/workshop_5/result%202.jpg?raw=true)
 
-Сторюю другий значок "зірка", для цього групую чотири повернуті трикутника у єдину фігуру:
-
-![](https://github.com/Dv4c/design/blob/main/workshop_5/3.png?raw=true)
-
-Рисунок 5.3 - Вибір типу групування union для трикутників
-
-![](https://github.com/Dv4c/design/blob/main/workshop_5/4.png?raw=true)
-
-Рисунок 5.4 - Зірка - як результат групування трикутників.
-
-Заливаю кольором значки:
-
-![](https://github.com/Dv4c/design/blob/main/workshop_5/5.png?raw=true)
-
-Рисунок 5.5 - Результат заливки кольором
-
+Рисунок 5.2 - Значок "Гітхабу" 
 
 Висновок: на данному практичному занятті було опрацювати матеріал розділу за"Керівництвом користувача фігма"  № 11 - Булеві групи і флетен (стор 62).Опанувано у Figma інструменти по додаванню і відніманню фігур(булеві групи). Створено два значка у заливковому стилі (solid), використовуючи при цьому булеві групи.
