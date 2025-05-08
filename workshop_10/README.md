@@ -12,19 +12,19 @@
 #### Хід роботи:
 Створюю новий проєкт у фігмі, використовуючи Auto Layout, текст, фото, стврорюю нові вайрфрейми, такі як: головна сторінка (з розмірами desktop - 1440 на 1080). Вайфрейм першого товару та другого товару створено на основі головної сторінки:
 
-![](?raw=true)
+![](https://github.com/CookieYup/design/blob/main/workshop_10/cards.jpg?raw=true)
 
 Рисунок 10.1 - Готовые карточки товару с использованми иконками
 
-![](?raw=true)
+![](https://github.com/CookieYup/design/blob/main/workshop_10/Desktop%20-%201.png?raw=true)
 
 Рисунок 10.2 - Готовая главная страница с товарами
 
-![](?raw=true)
+![](https://github.com/CookieYup/design/blob/main/workshop_10/desktop-2.png?raw=true)
 
 Рисунок 10.3 - Готовий вайрфрейм товара с характеристиками
 
-![](?raw=true)
+![](https://github.com/CookieYup/design/blob/main/workshop_10/Desktop%20-%203.png?raw=true)
 
 Рисунок 10.4 - Готовий вайрфрейм товара с с отзывами
 
