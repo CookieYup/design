@@ -11,7 +11,7 @@
 #### Хід роботи:
 Створюю новий проєкт у фігмі, використовуючи Auto Layout, текст, фото, ствроюю картку товару:
 
-![](?raw=true)
+![](https://github.com/CookieYup/design/blob/main/workshop_9/result.jpg?raw=true)
 
 Рисунок 9.1 - Картка товару
 
