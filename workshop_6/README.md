@@ -20,4 +20,6 @@
 
 Рисунок 6.2 - Вигляд готового Advanced елементу дизайну та прикладу.
 
+[Посилання на проєкт у Figma. ](https://www.figma.com/design/gzQdtZSlLHwdTJNSQzPn4k/lab-6?t=pdY7OErIbC3oXEKp-0) 
+
 Висновок: на данній практичній роботі було створено Medium і Advanced елементи дизайну. 
