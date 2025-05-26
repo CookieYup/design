@@ -15,4 +15,6 @@
 
 Рисунок 9.1 - Картка товару
 
+[Посилання на проєкт у Figma. ](https://www.figma.com/design/6Q7EfD3yynk1pbTrgHxJIs/lab-9?t=pdY7OErIbC3oXEKp-0) 
+
 Висновок: на данній практичній роботі було створено нову картку товару з використанням Auto Layout
