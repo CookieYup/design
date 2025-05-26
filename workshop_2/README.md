@@ -31,7 +31,7 @@
 
 5. **Експорт логотипу**  
     ![](https://github.com/CookieYup/design/blob/main/workshop_2/fagma%20logo.svg?raw=true).  
-   - [Збережено посилання на проєкт у Figma для подальших змін. ](https://www.figma.com/design/HWc1MSCefj2niLSMixHCei/fagma-logo?node-id=0-1&p=f&t=yCAejSRAiJQubEXO-0) 
+   [Посилання на проєкт у Figma.](https://www.figma.com/design/HWc1MSCefj2niLSMixHCei/fagma-logo?node-id=0-1&p=f&t=yCAejSRAiJQubEXO-0) 
 
 ### Висновок  
 У результаті лабораторної роботи було створено логотип Figma із дотриманням форми, кольорової палітри та пропорцій оригіналу. Робота дозволила освоїти основні інструменти Figma для роботи з векторною графікою.  
